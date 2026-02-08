@@ -1,52 +1,43 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sak+👋;Full+Stack+Developer;Laravel+%26+React+Developer;PostgreSQL+%7C+MySQL;Future+Software+Engineer+🚀" />
-</p>
+# 🎓 Student Management System (SMS)
+[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?logo=laravel)](https://laravel.com)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://react.dev)
 
-<h3 align="center">💻 Web Developer | 🚀 Future Software Engineer | 🎓 Norton University Student</h3>
+A comprehensive platform designed to streamline academic administration. This project demonstrates my ability to manage complex **Relational Database Architectures** and Role-Based Access Control (RBAC).
 
----
+### 🚀 Key Features
+- **Role-Based Dashboards:** Distinct interfaces for Administrators, Teachers, and Students.
+- **Course Enrollment:** Dynamic course selection with automated prerequisite checking.
+- **Attendance Tracking:** Real-time attendance logging with monthly reporting.
+- **Grade Management:** Automated GPA calculation using specialized backend logic.
+- **Secure Authentication:** Implemented via Laravel Sanitizer/Breeze for API security.
 
-## 🔥 About Me
-- 🔭 Currently building full-stack web applications  
-- 🌱 Learning advanced backend & frontend development  
-- 🤝 Looking for internship opportunities  
-- 💬 Ask me about Laravel, React, APIs & Databases  
-- ⚡ I debug more than I sleep 😆  
-
----
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![FullStack](https://img.shields.io/badge/Full--Stack-Developer-blueviolet?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployed-Projects-success?style=for-the-badge)
+### 🛠️ Tech Stack
+- **Backend:** Laravel (RESTful API)
+- **Frontend:** React.js + TailwindCSS
+- **Database:** PostgreSQL (Optimized with Indexing)
+- **State Management:** React Context API or Redux
 
 ---
 
-## 📊 GitHub Stats
+## 🥤 Option 2: Drink Store System (POS)
+*Focus: Inventory management, Sales transactions, and UI/UX.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithisak165&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithisak165&layout=compact&theme=tokyonight" />
-</p>
+```markdown
+# 🍹 Refreshment Hub - Drink Store POS
+[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?logo=laravel)](https://laravel.com)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://react.dev)
 
----
+A high-performance Point of Sale (POS) and Inventory system. This project showcases my skills in **State Management**, **Real-time Inventory updates**, and **Sales Analytics**.
 
-## 🚀 Connect With Me
+### 🚀 Key Features
+- **Dynamic POS Interface:** Fast, searchable product grid for quick checkout.
+- **Inventory Alerts:** Automated notifications when stock levels fall below a threshold.
+- **Transaction History:** Detailed logging of sales with PDF receipt generation.
+- **Sales Analytics:** Visual charts (Chart.js) showing daily and monthly revenue.
+- **Customizable Menu:** Support for categories, sizes, and topping add-ons.
 
-- 📫 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-
----
-
-<p align="center">
-  ⭐ Always learning. Always building. 🚀
-</p>
+### 🛠️ Tech Stack
+- **Backend:** Laravel + MySQL
+- **Frontend:** React + Vite (Optimized for speed)
+- **UI Componentry:** Headless UI / TailwindCSS
+- **API:** Axios with Interceptors for error handling
