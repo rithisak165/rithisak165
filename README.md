@@ -29,5 +29,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitthork165&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitthork165&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitthork165&layout=compact&theme=tokyonight)
